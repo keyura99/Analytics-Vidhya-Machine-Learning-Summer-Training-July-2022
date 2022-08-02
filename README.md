@@ -22,8 +22,13 @@ Training dataset : It consists of details of the customer (like Age, Asset Cost 
 
 Test Dataset : It consists of similar details for new customers ( like Age, Asset Cost , No.of loans, No.of Current loans,Education, Loan Amount and others), however without the target column (i.e. Loan_Default) Using the training dataset we need to prepare a Machine Learning model which will predict the Loan_Default for the customers in the test dataset  (i.e. For each customer in the test dataset predict whether the loan a will get defaulted or not)
 
-[sample_submission_tbPU9qQ.csv](https://github.com/keyura99/Analytics-Vidhya-Machine-Learning-Summer-Training-July-2022/files/9241530/sample_submission_tbPU9qQ.csv)
+Approach:
+1.	Getting the system ready and loading the data
+2.	Understanding the data
+3.	Exploratory Data Analysis (EDA)
+4.	Missing value and outlier treatment
+5.	Feature Engineering
+6.	Modelling using Machine Learning Algorithm
+7.	Preparing Submission File & Output
 
-[test_4zJg83n.csv](https://github.com/keyura99/Analytics-Vidhya-Machine-Learning-Summer-Training-July-2022/files/9241529/test_4zJg83n.csv)
 
-[train_LZV4RXX.csv](https://github.com/keyura99/Analytics-Vidhya-Machine-Learning-Summer-Training-July-2022/files/9241526/train_LZV4RXX.csv)
