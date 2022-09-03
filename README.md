@@ -27,8 +27,7 @@ Approach:
 2.	Understanding the data
 3.	Exploratory Data Analysis (EDA)
 4.	Missing value and outlier treatment
-5.	Feature Engineering
-6.	Modelling using Machine Learning Algorithm
-7.	Preparing Submission File & Output
+5.	Modelling using Machine Learning Algorithm
+6.	Preparing Submission File & Output
 
 
